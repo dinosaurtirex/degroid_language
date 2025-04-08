@@ -1,4 +1,4 @@
-from source.core.abstract import AbstractLanguage
+from source.core.abstract.language import AbstractLanguage
 from source.languages.russian.table import RU_CHAR_TABLE
 
 
